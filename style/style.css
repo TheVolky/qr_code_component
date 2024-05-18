@@ -44,6 +44,6 @@ p {
  /* En dessous de 375 px */
  @media screen and (max-width: 375px) {
     .qrCode {
-        margin-top: 60%;
+        margin-top: 40%;
     }
 }
