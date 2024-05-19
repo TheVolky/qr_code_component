@@ -8,7 +8,7 @@ body {
 .qrCode {
     background-color: white;
     border: 30px 30px 30px 30px;
-    border-radius: 30px;
+    border-radius: 15px;
     height: 492px;
     width: 320px;
     margin-left: auto;
@@ -36,7 +36,7 @@ h1 {
 p {
     text-align: center;
     color: grey;
-    font-size: 14px;
+    font-size: 15px;
     margin-left: 32px;
     margin-right: 32px;
 }
